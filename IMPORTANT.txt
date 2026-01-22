@@ -1,0 +1,3 @@
+-how to use-
+
+if you have a compiler for c language, just execute
